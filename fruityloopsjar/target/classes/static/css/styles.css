@@ -1,0 +1,14 @@
+* {
+    border: 0pt;
+    padding: 0pt;
+    width: 900px;
+}
+
+h1 {
+    color: rgb(80, 211, 255);
+}
+
+table {
+    border: 5px solid;
+    border-color: rgb(80, 211, 255);
+}
