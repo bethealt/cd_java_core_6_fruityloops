@@ -1,0 +1,13 @@
+* {
+    border: 2pt solid black;
+    padding: 2pt;
+}
+
+h1 {
+    color: turquoise;
+}
+
+table {
+    border: 5px solid;
+    border-color: turquoise;
+}
